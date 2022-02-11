@@ -1,0 +1,60 @@
+#avatar{
+	width:300px;
+	transform: rotate(-10deg);
+}
+
+#topbar{
+	min-height:300px;
+	width:100% ;
+	background-color:#ffebfc;
+}
+
+#topbar p{
+	font-size: 30px;
+	display: inline-block;
+	margin-top:6%;
+	margin-left:10%;
+}
+
+p{
+	color: blue;
+	font-size: 4vmin;
+	display: block;
+	margin-left: 3%;
+	margin-right: 3%;
+	word-break: keep-all;
+}
+
+body{
+	background-color: #d8e9eb;
+}
+
+#mainsection{
+	height: 60%;
+	width: 90%;
+	background-color: white;
+	border-radius: 25px;
+	margin-left: 5%;
+	margin-top: 5%;
+}
+
+#mainbutton{
+	margin-left: 5%;
+	margin-bottom: 2%;
+	background-color: #1ddd5d;
+	color: white;
+	padding: 15px 20px;
+	display: inline-block;
+	font-size: 24px;
+	cursor: pointer;
+}
+
+#mainbutton:hover {
+    background-color: #4fcc2c;
+}
+
+#nav {
+	width: 200px;
+	height: 100vw;
+	background-color: red;
+}
